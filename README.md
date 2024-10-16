@@ -1,7 +1,7 @@
 # IT1244_Project
 An NLP project completed in NUS during AY 23/24 while enrolled in IT1244 (Artificial Intelligence: Technology and Impact).
 
-## Project Description:
+## Project Description
 A classification project which classifies sentences based on sentiments using word embeddings and ML techniques.
 
 ## How to Run the Code
